@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tobacco628.github.io/tags/game/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tobacco628.github.io/tags/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tobacco628.github.io/game/yakuza0/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tobacco628.github.io/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tobacco628.github.io/game/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tobacco628.github.io/tags/life/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tobacco628.github.io/tags/</loc>
-    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tobacco628.github.io/life/</loc>
-    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tobacco628.github.io/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tobacco628.github.io/life/some-words-02/</loc>
@@ -23,13 +32,7 @@
     <loc>https://tobacco628.github.io/life/many-years/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tobacco628.github.io/tags/game/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tobacco628.github.io/game/bleach/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tobacco628.github.io/game/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tobacco628.github.io/life/2024-review/</loc>
@@ -54,5 +57,7 @@
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tobacco628.github.io/categories/</loc>
+  </url><url>
+    <loc>https://tobacco628.github.io/log/</loc>
   </url>
 </urlset>
